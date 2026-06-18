@@ -41,4 +41,3 @@ The project demonstrates how modern technologies such as unmanned aerial vehicle
 Environment Eyes aims to provide a reliable and cost-effective solution for environmental observation by combining aerial mobility with advanced imaging capabilities. The collected data can help users identify changes within monitored areas, improve situational awareness, and support planning, maintenance, and environmental management activities.
 ```
 
-هذا النص مناسب جدًا لمشروع تخرج أو مشروع جامعي لأنه يشرح الفكرة، الهدف، التقنيات، والمخرجات المتوقعة بشكل احترافي.
